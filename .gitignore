@@ -1,0 +1,15 @@
+# This repository publishes documentation only; installers are Release assets.
+*.exe
+*.zip
+*.db
+*.sqlite*
+*.log
+.env*
+config.json
+appsettings*.json
+.state/
+.venv/
+node_modules/
+bin/
+obj/
+workspace/
